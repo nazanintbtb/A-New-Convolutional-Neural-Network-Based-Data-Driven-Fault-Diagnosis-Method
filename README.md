@@ -8,6 +8,8 @@ The idea of this paper is to convert raw signals into images. The workflow is as
 # preproccess output
 ![22](https://github.com/nazanintbtb/A-New-Convolutional-Neural-Network-Based-Data-Driven-Fault-Diagnosis-Method/assets/88847995/dc0ff649-72d4-48c6-84fd-12f51440e179)
 ![Screenshot (71)](https://github.com/nazanintbtb/A-New-Convolutional-Neural-Network-Based-Data-Driven-Fault-Diagnosis-Method/assets/88847995/69f97e3c-7352-4235-8498-6e775cd78c23)
+![33](https://github.com/nazanintbtb/A-New-Convolutional-Neural-Network-Based-Data-Driven-Fault-Diagnosis-Method/assets/88847995/4f16dee5-6181-4ca5-9a4c-e906879e953c)
+
 
 
 
